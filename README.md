@@ -26,7 +26,7 @@ APIs: YouTube Data API, Kakao Maps API
 
 
 ## 🏆 Awards
-🥇 삼성 청년 SW 아카데미 13기 관통프로젝트 최우수상 (2025.05.30)
+🥇 삼성 청년 SW AI 아카데미 13기 관통프로젝트 최우수상 (2025.05.30)
 
 
 ## 🛠 Skills

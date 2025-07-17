@@ -2,8 +2,7 @@
 
 ### ✨ Fin_Sense
 
-[![Fin_Sense Logo](https://raw.githubusercontent.com/01seok/Fin_Sense/브랜치명/final_pjt_front/src/assets/FS_logo.png)](https://finsense.seokjae.yeonji.dev/)
-
+[![Fin Sense Logo](https://raw.githubusercontent.com/01seok/01seok/FS_logo1.png)](https://finsense.seokjae.yeonji.dev/)
 AI 기반 맞춤형 금융 정보 제공 및 추천 서비스입니다. 복잡한 절차 없이 사용자 활동 데이터를 기반으로 최적의 금융 상품을 추천하고, 다양한 금융 편의 기능을 제공하여 올바른 금융 습관을 기를 수 있도록 돕습니다.
 
 주요 특징

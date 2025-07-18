@@ -18,9 +18,11 @@ AI 기반 맞춤형 금융 정보 제공 및 추천 서비스입니다. 복잡�
 
 기술 스택
 
-Frontend: Vue.js, Pinia, Vite
+Languages: Python, JavaScript
 
 Backend: Django, Django REST Framework
+
+Frontend: Vue.js, Pinia, Vite
 
 Database: SQLite
 

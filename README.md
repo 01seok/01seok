@@ -1,3 +1,5 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj6924)](https://solved.ac/lsj6924/)
+
 ## ⚙️ Project
 
 ### ✨ [Fin_Sense](https://finsense.seokjae.yeonji.dev/)

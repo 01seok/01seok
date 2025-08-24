@@ -2,8 +2,9 @@
 
 ## ⚙️ Project
 
-### ✨ [Fin_Sense](https://finsense.seokjae.yeonji.dev/)](https://github.com/01seok/Fin_Sense)
-AI 기반 맞춤형 금융 정보 제공 및 추천 서비스, 복잡한 절차 없이 사용자 데이터를 기반으로 맞춤형 금융 상품을 추천하고, 다양한 금융 편의 기능을 제공하여 편리한 금융 생활을 도움
+### 🔊[Voida](https://github.com/01seok/voida) : lip model, STT, TTS를 이용한 청각 장애인과 비장애인의 실시간 양방향 커뮤니케이션 서비스
+
+### 💰[Fin_Sense](https://github.com/01seok/Fin_Sense) : AI를 활용한 개인 맞춤형 금융 상품 추천 및 금융 정보 제공 서비스
 
 
 

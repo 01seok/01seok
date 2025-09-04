@@ -7,7 +7,6 @@
 ### 💰[Fin_Sense](https://github.com/01seok/Fin_Sense) : AI를 활용한 개인 맞춤형 금융 상품 추천 및 금융 정보 제공 서비스
 
 
-
 ## 🏆 Awards
 🥇 삼성 청년 SW AI 아카데미 13기 관통프로젝트 최우수상 (2025.05.30)
 

@@ -2,6 +2,8 @@
 
 ## ⚙️ Project
 
+### 🧠[Second Brain](https://github.com/01seok/voida) : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스
+
 ### 🔊[Voida](https://github.com/01seok/voida) : lip model, STT, TTS를 이용한 청각 장애인과 비장애인의 실시간 양방향 커뮤니케이션 서비스
 
 ### 👕[On-Wear](https://github.com/On-Wear-SSAFY-13) : AI 기반의 개인화 스타일링 제안, 딥러닝 이미지 검색, 그리고 가상 피팅 경험을 제공하는 패션 테크 플랫폼

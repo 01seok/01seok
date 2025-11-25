@@ -34,9 +34,10 @@
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## 🎓 Education
+## 🎓 Education & Activity
 
 | 교육기관 | 기간 |
 |---|---|
+| 아시아창업엑스포 FLY ASIA 2025 포스터 부분 참가 | 2025.10.14 |
 | 삼성 청년 SW AI 아카데미 13기 | 2025.01.07 ~ |
 | 동아대학교 체육학과 졸업 | 2015.03 ~ 2022.02 |

@@ -2,7 +2,7 @@
 
 ## ⚙️ Projects
 
-**🧠[Second Brain](https://github.com/01seok/voida) : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스**
+**🧠[Second Brain](https://github.com/01seok/SecondBrain) : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스**
 
 **🔊[Voida](https://github.com/01seok/voida) : lip model, STT, TTS를 이용한 청각 장애인과 비장애인의 실시간 양방향 커뮤니케이션 서비스**
 

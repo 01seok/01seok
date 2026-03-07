@@ -23,6 +23,7 @@
 | :--- | :--- | :--- | :--- |
 | Multicampus | SAMSUNG SW·AI ACADEMY | 2025.12.23 ~ | Project coach |
 
+**[삼성전자 뉴스룸 인터뷰 영상](https://youtu.be/hrPPGSFyrTk?si=WniJqXvYz_W8y3dX&t=65)**
 
 
 ## 🛠 Skills

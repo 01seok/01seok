@@ -1,4 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj6924)](https://solved.ac/lsj6924/)
+![Programmers Badge](https://raw.githubusercontent.com/{your-github-id}/programmers-stats/main/output/result.svg)
 
 ## ⚙️ Projects
 

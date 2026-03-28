@@ -1,6 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj6924)](https://solved.ac/lsj6924/)
 ![Programmers Badge](https://raw.githubusercontent.com/01seok/programmers-stats/main/output/result.svg)
 
+
 ## ⚙️ Projects
 
 **🧠[Second Brain](https://github.com/01seok/SecondBrain) : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스**

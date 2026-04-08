@@ -10,6 +10,8 @@
 
 **👕[On-Wear](https://github.com/On-Wear-SSAFY-13) : AI 기반의 개인화 스타일링 제안, 딥러닝 이미지 검색, 그리고 가상 피팅 경험을 제공하는 패션 테크 플랫폼**
 
+**👚[Claude Code를 활용한 의류 추천 토이 프로젝트](https://github.com/01seok/mini-project-recommend) :claude code를 이용해 X(Twitter) 오픈소스 추천 알고리즘 구조 분석부터 크롤링, NDCG 평가 자동화까지**
+
 **💰[Fin_Sense](https://github.com/01seok/Fin_Sense) : AI를 활용한 개인 맞춤형 금융 상품 추천 및 금융 정보 제공 서비스**
 
 

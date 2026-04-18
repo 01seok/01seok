@@ -1,5 +1,13 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj6924)](https://solved.ac/lsj6924/)
-![Programmers Badge](https://raw.githubusercontent.com/01seok/programmers-stats/main/output/result.svg)
+화려한 기술보다 무너지지 않는 **안정성**을 먼저 고민하는 백엔드 개발자 이석재입니다.
+기술은 결국 사용자를 위해 존재하지만, 동시에 팀이 함께 이해하고 운영해 나가야 하는 자산이라고 생각합니다.
+그래서 기능을 구현하는 데서 멈추지 않고 **왜 이 기술이 필요한지**, 서비스에 어떤 가치를 만드는지, 그리고 팀이 더 효율적으로 개발하고 협업할 수 있는 방식인지까지 함께 고민합니다.
+건전한 의견 공유를 통해 더 나은 답을 찾고, **제한된 리소스 안에서도 안정적이고 효율적인 구조**를 만들기 위해 꾸준히 개선해 나가고자 합니다.
+
+
+I am a backend developer who prioritizes **stability** over flashy technology.
+I believe technology ultimately exists for users, but it is also an asset that a team should be able to understand and operate together.
+That is why I do not stop at simply implementing features. I keep asking **why a technology is needed**, what value it brings to the service, and whether it helps the team develop and collaborate more efficiently.
+Through open and constructive discussion, I strive to find better answers and continuously improve systems to make them stable and efficient even within limited resources.
 
 
 ## ⚙️ Projects
@@ -9,8 +17,6 @@
 **🔊[Voida](https://github.com/01seok/voida) : Lip-Sync model, STT, TTS를 이용한 청각 장애인과 비장애인의 실시간 양방향 커뮤니케이션 서비스**
 
 **👕[On-Wear](https://github.com/On-Wear-SSAFY-13) : AI 기반의 개인화 스타일링 제안, 딥러닝 이미지 검색, 그리고 가상 피팅 경험을 제공하는 패션 테크 플랫폼**
-
-**👚[Claude Code를 활용한 의류 추천 토이 프로젝트](https://github.com/01seok/mini-project-recommend) :claude code를 이용해 X(Twitter) 오픈소스 추천 알고리즘 구조 분석부터 크롤링, NDCG 평가 자동화까지**
 
 **💰[Fin_Sense](https://github.com/01seok/Fin_Sense) : AI를 활용한 개인 맞춤형 금융 상품 추천 및 금융 정보 제공 서비스**
 

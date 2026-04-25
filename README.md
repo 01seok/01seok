@@ -28,6 +28,7 @@ Through open and constructive discussion, I strive to find better answers and co
 
 🥇 삼성 청년 SW AI 아카데미 13기 특화프로젝트 최우수상 (2025.09.29)
 
+
 ## 💼 Career
 | 기업명 | 부서 | 기간 | 직무/직책 |
 | :--- | :--- | :--- | :--- |

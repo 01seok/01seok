@@ -50,6 +50,7 @@ Through open and constructive discussion, I strive to find better answers and co
 
 </div>
 
+
 ## 🎓 Education & Activity
 
 | 교육기관 및 활동 내용 | 기간 | 비고 |

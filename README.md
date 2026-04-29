@@ -9,7 +9,6 @@ I believe technology ultimately exists for users, but it is also an asset that a
 That is why I do not stop at simply implementing features. I keep asking **why a technology is needed**, what value it brings to the service, and whether it helps the team develop and collaborate more efficiently.
 Through open and constructive discussion, I strive to find better answers and continuously improve systems to make them stable and efficient even within limited resources.
 
-
 ## ⚙️ Projects
 
 **🧠[Second Brain](https://github.com/01seok/SecondBrain) : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스**

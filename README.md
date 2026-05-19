@@ -3,7 +3,6 @@
 그래서 기능을 구현하는 데서 멈추지 않고 **왜 이 기술이 필요한지**, 서비스에 어떤 가치를 만드는지, 그리고 팀이 더 효율적으로 개발하고 협업할 수 있는 방식인지까지 함께 고민합니다.
 건전한 의견 공유를 통해 더 나은 답을 찾고, **제한된 리소스 안에서도 안정적이고 효율적인 구조**를 만들기 위해 꾸준히 개선해 나가고자 합니다.
 
-
 I am a backend developer who prioritizes **stability** over flashy technology.
 I believe technology ultimately exists for users, but it is also an asset that a team should be able to understand and operate together.
 That is why I do not stop at simply implementing features. I keep asking **why a technology is needed**, what value it brings to the service, and whether it helps the team develop and collaborate more efficiently.

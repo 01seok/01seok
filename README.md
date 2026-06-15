@@ -30,7 +30,9 @@ Through open and constructive discussion, I strive to find better answers and co
 ## 💼 Career
 | 기업명 | 부서 | 기간 | 직무/직책 |
 | :--- | :--- | :--- | :--- |
-| Multicampus | SAMSUNG SW·AI ACADEMY | 2025.12.23 ~ | Project coach |
+| Multicampus | SAMSUNG SW·AI ACADEMY | 2025.12.23 ~ 2026.06.02| Project coach |
+| 지란지교소프트 | Agent 개발팀 | 2026.0615 ~ | Backend Developer |
+
 
 **[삼성전자 뉴스룸 인터뷰 영상](https://youtu.be/hrPPGSFyrTk?si=WniJqXvYz_W8y3dX&t=65)**
 
